@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AddNote"> メモを追加します。</string>
+    <string name="SimpleNote"> 簡単なメモ</string>
+    <string name="addL"> リストを追加</string>
+    <string name="add_item"> 項目の追加 </string>
+    <string name="back"> 戻る</string>
+    <string name="back2"> 戻る</string>
+    <string name="cancel"> キャンセル</string>
+    <string name="content"> コンテンツ</string>
+    <string name="content2"> コンテンツ</string>
+    <string name="delete"> 削除</string>
+    <string name="delete2"> 削除</string>
+    <string name="edit"> 編集</string>
+    <string name="edit2"> 編集</string>
+    <string name="editnote"> メモを編集</string>
+    <string name="list"> リスト</string>
+    <string name="noitem">アイテムはありませんが見つかりました、新しいアイテムを作成する「項目の追加」をクリックして</string>
+    <string name="notetype"> メモを作成するの種類を選択</string>
+    <string name="ok"> わかりました</string>
+    <string name="ok2"> [ok]</string>
+    <string name="place"> プレース ホルダー</string>
+    <string name="place2"> プレース ホルダー</string>
+    <string name="placeholder"> プレース ホルダー</string>
+    <string name="title"> タイトル</string>
+    <string name="title2"> タイトル</string>
+    <string name="todolistapp"> リストアプリの </string>
+</resources>

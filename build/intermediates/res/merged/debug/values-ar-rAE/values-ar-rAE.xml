@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AddNote"> إضافة ملاحظة</string>
+    <string name="SimpleNote"> ملاحظة بسيطة</string>
+    <string name="addL"> إضافة قائمة</string>
+    <string name="add_item"> إضافة عنصر</string>
+    <string name="back"> مرة أخرى</string>
+    <string name="back2"> مرة أخرى</string>
+    <string name="cancel"> إلغاء الأمر</string>
+    <string name="content"> المحتوى</string>
+    <string name="content2"> المحتوى</string>
+    <string name="delete"> حذف</string>
+    <string name="delete2"> حذف</string>
+    <string name="edit"> تحرير</string>
+    <string name="edit2"> تحرير</string>
+    <string name="editnote"> تحرير ملاحظة</string>
+    <string name="list"> قائمة</string>
+    <string name="noitem">لا توجد عناصر العثور على، انقر فوق "إضافة عنصر" إنشاء عنصر جديد</string>
+    <string name="notetype"> حدد نوع الملاحظة التي ترغب في إنشاء</string>
+    <string name="ok"> موافق</string>
+    <string name="ok2"> موافق</string>
+    <string name="place"> العنصر النائب</string>
+    <string name="place2"> العنصر النائب</string>
+    <string name="placeholder"> العنصر النائب</string>
+    <string name="title"> العنوان</string>
+    <string name="title2"> العنوان</string>
+    <string name="todolistapp"> قائمة التطبيق</string>
+</resources>

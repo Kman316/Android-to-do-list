@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AddNote"> Добавить заметку</string>
+    <string name="SimpleNote"> просто к сведению</string>
+    <string name="list"> список</string>
+    <string name="notetype"> выберите тип ноту, которую вы хотите создать</string>
+    <string name="ok"> Хорошо</string>
+    <string name="addL"> Добавление списка</string>
+    <string name="title"> название</string>
+    <string name="content"> содержание</string>
+    <string name="noitem"><![CDATA[Элементы не найдены, нажмите кнопку «Добавить элемент», чтобы создать новый элемент]]></string>
+    <string name="editnote"> Изменить Примечание</string>
+    <string name="title2"> название</string>
+    <string name="content2"> содержание</string>
+    <string name="ok2"> OK</string>
+    <string name="cancel"> Отмена</string>
+    <string name="placeholder"> заполнитель</string>
+    <string name="edit"> редактировать</string>
+    <string name="delete"> Удалить</string>
+    <string name="back"> назад</string>
+    <string name="place"> заполнитель</string>
+    <string name="place2"> заполнитель</string>
+    <string name="edit2"> редактировать</string>
+    <string name="delete2"> Удалить</string>
+    <string name="back2"> назад</string>
+    <string name="add_item"> Добавить элемент</string>
+    <string name="todolistapp"> список приложений</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AddNote"> Notiz hinzufügen</string>
+    <string name="SimpleNote"> einfache Notiz</string>
+    <string name="list"> Liste</string>
+    <string name="notetype"> Wählen Sie den Typ der Anmerkung, die Sie erstellen möchten</string>
+    <string name="ok"> Okay</string>
+    <string name="addL"> Liste hinzufügen</string>
+    <string name="title"> Titel</string>
+    <string name="content"> Inhalt</string>
+    <string name="noitem"><![CDATA[Keine Artikel gefunden, klicken Sie auf "Artikel hinzufügen", um ein neues Element erstellen]]></string>
+    <string name="editnote"> Notiz bearbeiten</string>
+    <string name="title2"> Titel</string>
+    <string name="content2"> Inhalt</string>
+    <string name="ok2"> "OK"</string>
+    <string name="cancel"> Abbrechen</string>
+    <string name="placeholder"> Platzhalter</string>
+    <string name="edit"> Bearbeiten</string>
+    <string name="delete"> Löschen</string>
+    <string name="back"> zurück</string>
+    <string name="place"> Platzhalter</string>
+    <string name="place2"> Platzhalter</string>
+    <string name="edit2"> Bearbeiten</string>
+    <string name="delete2"> Löschen</string>
+    <string name="back2"> zurück</string>
+    <string name="add_item"> Element hinzufügen</string>
+    <string name="todolistapp"> zu tun Liste App</string>
+</resources>

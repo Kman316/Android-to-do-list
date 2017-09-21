@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_delete_small.png",
+        "source": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\drawable-xhdpi\\ic_delete_small.png"
+    },
+    {
+        "merged": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_note.png",
+        "source": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\drawable-xhdpi\\ic_note.png"
+    },
+    {
+        "merged": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_list.png",
+        "source": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\drawable-xhdpi\\ic_list.png"
+    },
+    {
+        "merged": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_about.png",
+        "source": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\drawable-xhdpi\\ic_menu_about.png"
+    }
+]

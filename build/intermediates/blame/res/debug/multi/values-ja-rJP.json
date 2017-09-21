@@ -1,0 +1,482 @@
+[
+    {
+        "outputFile": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\build\\intermediates\\res\\merged\\debug\\values-ja-rJP\\values-ja-rJP.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 45,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 45,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 40,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 40,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 44,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 46,
+                        "endOffset": 1141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 234,
+                    "endColumn": 36,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 36,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 37,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 37,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 41,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 41,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 42,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 42,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 43,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 592,
+                        "endColumn": 43,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 38,
+                    "endOffset": 472
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 809,
+                        "endColumn": 38,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 477,
+                    "endColumn": 39,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1019,
+                        "endColumn": 39,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 36,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 771,
+                        "endColumn": 36,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 37,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 980,
+                        "endColumn": 37,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 43,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 43,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 37,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 37,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 80,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 92,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 51,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 51,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 38,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 244,
+                        "endColumn": 38,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 37,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 37,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 44,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 44,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 45,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 45,
+                        "endOffset": 974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endColumn": 50,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 50,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 39,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 39,
+                        "endOffset": 361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 40,
+                    "endOffset": 1102
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 40,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1107,
+                    "endColumn": 49,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "H:\\Semester 2\\Software Localisation\\Project_Upload_SOFT7021\\Source\\androidtodolistmaster\\src\\main\\res\\values-ja-rJP\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 51,
+                        "endOffset": 1194
+                    }
+                }
+            }
+        ]
+    }
+]

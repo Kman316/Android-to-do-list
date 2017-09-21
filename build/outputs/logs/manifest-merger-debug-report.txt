@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+		INJECTED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:10:22-64
+application
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:12:5-31:19
+	android:label
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:16:9-44
+	android:supportsRtl
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:16:45-87
+activity#com.placella.todo.Activity_Main
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:19:13-43
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:18:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:22:27-74
+activity#com.placella.todo.Activity_EditNote
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:25:9-81
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:25:19-69
+activity#com.placella.todo.Activity_EditList
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:26:9-81
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:26:19-69
+activity#com.placella.todo.Activity_Add
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:27:9-76
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:27:19-64
+activity#com.placella.todo.Activity_ViewNote
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:28:9-81
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:28:19-69
+activity#com.placella.todo.Activity_ViewList
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:29:9-81
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:29:19-69
+activity#com.placella.todo.Activity_Notification
+ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:30:9-85
+	android:name
+		ADDED from H:\Semester 2\Software Localisation\Project_Upload_SOFT7021\Source\androidtodolistmaster\src\main\AndroidManifest.xml:30:19-73
